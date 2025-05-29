@@ -1,51 +1,24 @@
 # 👋 Hi, I'm Saifur Rahman S.
 
 📍 Dhaka, Bangladesh  
-💻 Mobile Application Developer | ML Enthusiast 
+💻 Mobile Application Developer | ML Enthusiast  
+🧠 Passionate about building intuitive apps & smart, data-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Tech Stack
 
-### 🚀 Mobile Development
-- React Native
-- Flutter
-- Android App Development
-- iOS Development
-
-### 🌐 Web Development
-- Django
-- React
-- Node.js
-- Web Applications
-
-### 💡 Programming & Scripting
-- JavaScript
-- Python
-- Scripting & Automation
-
-### 🧠 Machine Learning & NLP
-- Machine Learning (ML)
-- Natural Language Processing (NLP)
-
-### 🧰 Tools & Practices
-- RESTful API Integration
-- UI/UX Design
-- Cross-Platform Development
-- Version Control (Git)
+| Mobile              | Web                | Programming         | ML & NLP            | Tools               |
+|---------------------|--------------------|----------------------|----------------------|----------------------|
+| React Native        | Django             | JavaScript           | Machine Learning     | RESTful APIs         |
+| Flutter             | React              | Python               | NLP                  | UI/UX Design         |
+| Android / iOS       | Node.js            | Scripting & Automation |                      | Git & GitHub         |
 
 ---
 
-> Passionate about building intuitive apps and smart, data-driven solutions.
+## 📈 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saifur43&show_icons=true&count_private=true&hide_title=true&hide=contribs&theme=default&border_radius=10&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifur43&layout=compact&theme=default&border_radius=10)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifur43&show_icons=true&count_private=true&theme=tokyonight&hide=contribs&hide_title=true&border_radius=10&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifur43&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+</p>
