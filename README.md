@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Saifur Rahman S.
 
-<!--
-**Saifur43/Saifur43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dhaka, Bangladesh  
+💻 Mobile Application Developer | ML Enthusiast 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+### 🚀 Mobile Development
+- React Native
+- Flutter
+- Android App Development
+- iOS Development
+
+### 🌐 Web Development
+- Django
+- React
+- Node.js
+- Web Applications
+
+### 💡 Programming & Scripting
+- JavaScript
+- Python
+- Scripting & Automation
+
+### 🧠 Machine Learning & NLP
+- Machine Learning (ML)
+- Natural Language Processing (NLP)
+
+### 🧰 Tools & Practices
+- RESTful API Integration
+- UI/UX Design
+- Cross-Platform Development
+- Version Control (Git)
+
+---
+
+> Passionate about building intuitive apps and smart, data-driven solutions.
