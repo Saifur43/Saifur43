@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Saifur Rahman S.
 
 📍 Dhaka, Bangladesh  
+
 💻 AI-Focused Developer | Python & Django Expert | React Native & Flutter | ML, NLP & LLMs
+
 🧠 Passionate about building intuitive apps & smart, data-driven solutions.
+
 ---
 ## 🚀 Tech Stack
 
