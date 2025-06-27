@@ -13,7 +13,7 @@
 |---------------------|--------------------|----------------------|----------------------|----------------------|
 | React Native        | Django             | JavaScript           | Machine Learning     | RESTful APIs         |
 | Flutter             | React              | Python               | NLP                  | UI/UX Design         |
-| Android / iOS       | Node.js            | Scripting & Automation |                      | Git & GitHub         |
+| Android / iOS       | Node.js            | Scripting & Automation | LLMs                    | Git & GitHub         |
 ---
 ## 📈 GitHub Stats
 <p align="center">
