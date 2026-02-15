@@ -29,7 +29,6 @@ I build:
 * FastAPI
 * PostgreSQL
 * PostGIS
-* Alembic
 * REST API Design
 * Authentication & Role-based Systems
 
@@ -39,7 +38,6 @@ I build:
 * Vite
 * Redux Toolkit (RTK)
 * React Router
-* Gantt Libraries (gantt-task-react, frappe-gantt, @svar-ui/react-gantt)
 * Modern UI architecture & state management
 
 ### 📱 Mobile
