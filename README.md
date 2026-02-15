@@ -18,8 +18,6 @@ I build:
 * 🔹 Cross-platform mobile apps with **Flutter & React Native**
 * 🔹 AI-powered systems using **Machine Learning, NLP & LLMs**
 
-I enjoy solving real-world problems — from apparel management systems to geo-spatial platforms and AI-enhanced applications.
-
 ---
 
 ## ⚙️ Core Tech Stack
@@ -62,21 +60,10 @@ I enjoy solving real-world problems — from apparel management systems to geo-s
 
 * Git & GitHub
 * Linux / CLI
-* Virtual Environments (venv)
 * Docker (basic)
 * API Refactoring & Optimization
 * Pagination, Filtering, Search Optimization
 * System Architecture Design
-
----
-
-## 🏗 What I’m Currently Focused On
-
-* 🔥 Clean architecture for scalable Django/FastAPI projects
-* 🔥 Advanced API refactoring (pagination, filtering, search, RTK integration)
-* 🔥 Geo-spatial systems with PostGIS
-* 🔥 AI-powered SaaS concepts
-* 🔥 Startup-ready software architecture
 
 ---
 
