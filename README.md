@@ -63,14 +63,5 @@ I build:
 * Pagination, Filtering, Search Optimization
 * System Architecture Design
 
----
-
-## 📌 Engineering Philosophy
-
-* Simplicity > Overengineering
-* Clean APIs win projects
-* Performance & scalability matter early
-* AI should solve real problems — not just be hype
-
 
 
